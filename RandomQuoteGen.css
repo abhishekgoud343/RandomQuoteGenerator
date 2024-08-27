@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    padding: 50px;
+    font-size: 30px;
+}
+
+button {
+    background-color: blue;
+    color : white;
+    font-size: 16px;
+    padding: 8px;
+    height: 40px;
+    margin-top: 10%;
+}
+
+.container {
+    background-color: aliceblue;
+    height: 400px;
+    width : 600px;
+    display: block;
+    margin: auto;
+    padding : 5%;
+    text-align: center;
+}
